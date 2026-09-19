@@ -43,6 +43,11 @@ com os IDs RF/RN/US aparecendo no título dos cards para amarrar os dois.
 entrou como convidada, então a leitura automática do quadro não funciona (P-11).
 O tema do projeto continua indefinido (P-01).
 
+**Atualização no mesmo dia:** O quadro foi reorganizado por estado — `Backlog`,
+`A fazer`, `Fazendo`, `Bloqueado`, `Correção de bug` e `Concluído` — no lugar
+das colunas por fase. Fica pendente trocar `Correção de bug` por uma etiqueta
+`bug` e nomear as etiquetas (P-10).
+
 **Próximo passo:** Definir o tema e, a partir dele, escrever os primeiros cards
 reais com critério de aceite.
 

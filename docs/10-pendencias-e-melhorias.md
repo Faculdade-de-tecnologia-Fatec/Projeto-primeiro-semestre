@@ -24,7 +24,7 @@
 | P-07 | 🟡 | Decidir se haverá **persistência** com `localStorage` | Muda RNF-005 e a estrutura de `assets/js/` | Equipe |
 | P-08 | 🔵 | Criar os **wireframes**, mesmo em papel fotografado | Rascunho de tela subido no Drive já serve de insumo e conta como processo | Equipe |
 | P-09 | 🔵 | Começar a alimentar `docs/evidencias/` desde a primeira tela pronta | Evidência acumulada evita correria e protege contra demo que falha | Equipe |
-| P-10 | 🟡 | Padronizar o **quadro do Trello**: colunas por estado e etiquetas nomeadas por fase/tipo | Hoje o quadro mistura fase (Levantamento, Desenvolvimento, Documentação) com estado (Backlog, Concluído), então não dá para saber o que está em andamento nem o que travou | Equipe |
+| P-10 | 🔵 | **Nomear as etiquetas** do quadro (`requisito`, `regra de negócio`, `bug`, `frontend`, `documentação`, `testes`) e trocar a coluna `Correção de bug` pela etiqueta `bug` | Etiqueta colorida sem nome não informa nada, e `Correção de bug` é tipo, não estado — um bug em andamento caberia em duas colunas | Equipe |
 | P-11 | 🔵 | Liberar apps de terceiros na **área de trabalho do Donovan** (dona do quadro) | Sem isso a leitura automática do Trello não funciona e o quadro só chega aqui por print | Donovan |
 
 ## Recomendações da rodada — 2026-09-19
@@ -46,3 +46,4 @@
 | # | Item | Resolvido em |
 |---|---|---|
 | P-03 | Confirmar se o trabalho é em grupo e quem são os integrantes — grupo de 3: Anderson, Donovan Bueno e João Pedro | 2026-09-19 |
+| — | Colunas do Trello trocadas de fase para estado (`Backlog` · `A fazer` · `Fazendo` · `Bloqueado` · `Concluído`) | 2026-09-19 |
