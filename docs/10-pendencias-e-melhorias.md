@@ -18,13 +18,14 @@
 |---|---|---|---|---|
 | P-01 | 🔴 | Definir o **tema** do projeto | Sem tema não há requisito, regra nem backlog. É o bloqueio raiz de tudo abaixo | Anderson / equipe |
 | P-02 | 🔴 | Subir na pasta do Drive o **enunciado da disciplina** e a **rubrica de avaliação** | A rubrica diz onde está a nota. Documentar sem ela é chutar prioridade | Anderson |
-| P-03 | 🔴 | Confirmar se o trabalho é **em grupo ou individual**, e quem são os integrantes | Muda divisão de tarefas, apresentação e distribuição de commits, que a banca olha | Anderson |
 | P-04 | 🔴 | Confirmar a **tecnologia exigida** pela disciplina | Toda a arquitetura em [05](05-arquitetura-e-tecnologias.md) assume HTML/CSS/JS puro. Se a disciplina exigir outra coisa, o documento muda inteiro | Anderson |
 | P-05 | 🔴 | Definir a **data de entrega** | Sem prazo não dá para planejar sprint nem cortar escopo | Anderson |
 | P-06 | 🟡 | Fazer o levantamento de **RF e RN** depois que o tema existir | É o núcleo da documentação e o que a banca mais pergunta | Agente + equipe |
 | P-07 | 🟡 | Decidir se haverá **persistência** com `localStorage` | Muda RNF-005 e a estrutura de `assets/js/` | Equipe |
 | P-08 | 🔵 | Criar os **wireframes**, mesmo em papel fotografado | Rascunho de tela subido no Drive já serve de insumo e conta como processo | Equipe |
 | P-09 | 🔵 | Começar a alimentar `docs/evidencias/` desde a primeira tela pronta | Evidência acumulada evita correria e protege contra demo que falha | Equipe |
+| P-10 | 🟡 | Padronizar o **quadro do Trello**: colunas por estado e etiquetas nomeadas por fase/tipo | Hoje o quadro mistura fase (Levantamento, Desenvolvimento, Documentação) com estado (Backlog, Concluído), então não dá para saber o que está em andamento nem o que travou | Equipe |
+| P-11 | 🔵 | Liberar apps de terceiros na **área de trabalho do Donovan** (dona do quadro) | Sem isso a leitura automática do Trello não funciona e o quadro só chega aqui por print | Donovan |
 
 ## Recomendações da rodada — 2026-09-19
 
@@ -44,4 +45,4 @@
 
 | # | Item | Resolvido em |
 |---|---|---|
-| — | — | — |
+| P-03 | Confirmar se o trabalho é em grupo e quem são os integrantes — grupo de 3: Anderson, Donovan Bueno e João Pedro | 2026-09-19 |

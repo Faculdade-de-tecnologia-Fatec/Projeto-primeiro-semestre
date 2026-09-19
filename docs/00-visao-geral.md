@@ -13,7 +13,7 @@
 | Disciplina / Curso | `[A DEFINIR]` |
 | Semestre | 1º semestre |
 | Instituição | Fatec |
-| Integrantes | Anderson Rodrigues (`dev-anderson-rodrigues`) + `[A DEFINIR]` |
+| Integrantes | Anderson Rodrigues (`dev-anderson-rodrigues`), Donovan Bueno, João Pedro Sampaio da Silva — grupo de 3 |
 | Professor(a) orientador(a) | `[A DEFINIR]` |
 | Repositório | https://github.com/Faculdade-de-tecnologia-Fatec/Projeto-primeiro-semestre |
 
@@ -57,3 +57,4 @@ cada item começando com um verbo no presente.
 | Código iniciado | ❌ Não — repositório só com README |
 | Documentação | 🟡 Estrutura criada, conteúdo a preencher |
 | Material no Drive | ❌ Pasta vazia |
+| Quadro no Trello | 🟡 Criado (PI - 1ºSEMESTRE), 1 card de teste |

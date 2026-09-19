@@ -24,6 +24,28 @@ Drive. Não precisa ser diário de verdade — precisa ser honesto e datado.
 
 ---
 
+## 2026-09-19 — Equipe confirmada e quadro do Trello criado
+
+**O que aconteceu:** Confirmada a composição da equipe pelo quadro do Trello
+*PI - 1ºSEMESTRE*: Anderson Rodrigues, Donovan Bueno e João Pedro Sampaio da
+Silva. O quadro foi criado com as colunas Levantamento de requisitos,
+Levantamento de regras de negócios, Backlog, Desenvolvimento, Testes,
+Documentação e Concluído, e tem por enquanto um card de teste.
+
+**O que mudou no projeto:** O trabalho passa a ser tratado como projeto em grupo
+de três, o que muda a divisão de tarefas e o roteiro de apresentação
+([08-roteiro-de-apresentacao.md](08-roteiro-de-apresentacao.md)).
+
+**Decisões:** Trello como backlog do dia a dia; `docs/` como registro oficial,
+com os IDs RF/RN/US aparecendo no título dos cards para amarrar os dois.
+
+**Obstáculos:** O quadro fica na área de trabalho do Donovan e a conta conectada
+entrou como convidada, então a leitura automática do quadro não funciona (P-11).
+O tema do projeto continua indefinido (P-01).
+
+**Próximo passo:** Definir o tema e, a partir dele, escrever os primeiros cards
+reais com critério de aceite.
+
 ## 2026-09-19 — Estrutura de documentação criada
 
 **O que aconteceu:** Montada a estrutura de documentação do projeto no
